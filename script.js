@@ -1,1 +1,1 @@
-alert('practicing some git commands')
+alert('hey')
